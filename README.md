@@ -34,7 +34,6 @@ If the output is identical (broken: broken) or (intact: intact), then the classi
 Assuming a port has 10 defect containers per week, scanned in several positions, the operator would therefore quickly reach a sufficient amount of training material. We currently do not have sufficient picture material, but the technology and the knowledge to implement the classification algorithm.
 </p>
 
-<p class="text-justify"> 
-### If you are interested in automatically validating the transportability of containers passing through your port, please reach out. </p>
+### If you are interested in automatically validating the transportability of containers passing through your port, please reach out. 
 
 
