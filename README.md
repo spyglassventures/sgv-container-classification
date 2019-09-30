@@ -17,7 +17,7 @@ This in particular during transport, by material fatigue or by improper handling
 
 <p class="text-justify"> 
   
-
+<!-- .slide: style="text-align: left;"> -->  
 The classic fields of engineering, such as mechanical engineering, civil and aircraft engineering have been developing numerous methods for the early detection of damage of all kinds for quite some time. In addition to methods in the fields of acoustics and vibration analysis, optical recognition is particularly suitable for damage detection.
 </p>
 
