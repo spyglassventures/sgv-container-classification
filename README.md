@@ -1,4 +1,4 @@
-# Python tool to classify containers (broken, not-broken) with Keras(Tensorflow)
+# Python tool to classify containers (broken, intact) with Keras(Tensorflow)
 
 ### An application of how to recognize the transportability of containers based on the insights we gained from a port in Germany. Here is what we learned.
 
