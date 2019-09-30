@@ -5,13 +5,9 @@
 We can predict the intactness of containers with the help of Machine Learning in a fully automated way. This is the outcome in a nutshell.
 
 <p align="center">
-  <img src="Container_broken.png" width="80" title="hover text">
-  <img src="Container_intact.png" width="80" title="hover text">
+  <img src="Container_broken.png" width="100" title="hover text">
+  <img src="Container_intact.png" width="100" title="hover text">
 </p>
-
-
-
-![Classification outcome](Container_broken.png?raw=true "Classification outcome") ![Classification outcome](Container_intact.png?raw=true "Classification outcome")
 
 
 
