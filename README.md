@@ -25,4 +25,6 @@ We have trained the machine with 300 pictures of broken and defect containers (e
 
 If the output is identical (broken: broken) or (intact: intact), then the classification is correct. In the example above, all defect containers were labeled correct, but a few intact containers marked as defect. At site, the containers labeled “broken” by the machine would be manually checked and confirmed by a person as “good for transport” or “repair”. Therefore, the system can used to support your current staff and to save cost. We assume manual checking of containers for transportability at site can be reduced up to a factor of ~20.
 
-Assuming you have 10 defect containers per week, scanned in several positions, we would therefore quickly reach a sufficient amount of training material. We currently do not have sufficient picture material, but the technology and the knowledge to implement the classification algorithm. How are you currently checking the containers passing your port for transportability?
+Assuming a port has 10 defect containers per week, scanned in several positions, the operator would therefore quickly reach a sufficient amount of training material. We currently do not have sufficient picture material, but the technology and the knowledge to implement the classification algorithm. 
+
+If you are interested in automatically validating the transportability of containers passing through your port, please reach out.
