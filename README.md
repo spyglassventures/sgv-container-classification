@@ -10,7 +10,7 @@ We can predict the intactness of containers with the help of Machine Learning in
 </p>
 
 
-
+<p align="center">
 Damage to containers can be caused by natural wear or overstressing physical and chemical nature. 
 This in particular during transport, by material fatigue or by improper handling. Already existing material defects promote the occurrence of further defects. In addition to their appearance and functionality, they can also impair the safety of use of the containers. The damage occurs essentially as cracks, deformations or as separated parts. Due to the liability of the logistics company, the need to develop and use effective methods of damage detection is evident. 
 
@@ -28,3 +28,4 @@ If the output is identical (broken: broken) or (intact: intact), then the classi
 Assuming a port has 10 defect containers per week, scanned in several positions, the operator would therefore quickly reach a sufficient amount of training material. We currently do not have sufficient picture material, but the technology and the knowledge to implement the classification algorithm. 
 
 If you are interested in automatically validating the transportability of containers passing through your port, please reach out.
+</p>
