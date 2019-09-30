@@ -2,6 +2,7 @@
 
 ### An application of how to recognize the transportability of containers based on the insights we gained from a port in Germany. Here is what we learned.
 
+<p class="text-justify">
 We can predict the intactness of containers with the help of Machine Learning in a fully automated way. This is the outcome in a nutshell.
 
 <p align="center">
@@ -28,4 +29,5 @@ If the output is identical (broken: broken) or (intact: intact), then the classi
 Assuming a port has 10 defect containers per week, scanned in several positions, the operator would therefore quickly reach a sufficient amount of training material. We currently do not have sufficient picture material, but the technology and the knowledge to implement the classification algorithm. 
 
 If you are interested in automatically validating the transportability of containers passing through your port, please reach out.
+
 </p>
