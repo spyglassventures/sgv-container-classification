@@ -1,6 +1,11 @@
 # Python tool to classify containers (broken, not-broken) with Keras(Tensorflow)
 
-## An application of how to recognize the transportability of containers based on the insights we gained from a port in Germany. Here is what we learned:
+### An application of how to recognize the transportability of containers based on the insights we gained from a port in Germany. Here is what we learned.
+
+We can predict the intactness of containers with the help of Machine Learning in a fully automated way. This is the outcome in a nutshell.
+![Classification outcome](Container_broken.png?raw=true "Classification outcome") ![Classification outcome](Container_intact.png?raw=true "Classification outcome")
+
+
 
 Damage to containers can be caused by natural wear or overstressing physical and chemical nature. 
 This in particular during transport, by material fatigue or by improper handling. Already existing material defects promote the occurrence of further defects. In addition to their appearance and functionality, they can also impair the safety of use of the containers. The damage occurs essentially as cracks, deformations or as separated parts. Due to the liability of the logistics company, the need to develop and use effective methods of damage detection is evident. 
